@@ -18,7 +18,7 @@ const Footer = () => {
     {
       id: nanoid(),
       name: 'envelope',
-      url: 'mailto:info@dogukanermis.com',
+      url: 'mailto:info@ermis.lu',
     },
   ];
 
@@ -37,7 +37,7 @@ const Footer = () => {
               return (
                 <a
                   key={id}
-                  href={url || 'https://dogukanermis.com'}
+                  href={url || 'https://ermis.lu'}
                   rel="noopener noreferrer"
                   target="_blank"
                   aria-label={name}
@@ -49,7 +49,7 @@ const Footer = () => {
         </div>
         <p className="footer__text">
           © {new Date().getFullYear()} - Developed by{' '}
-          <a href="https://dogukanermis.com" target="_blank" rel="noopener noreferrer">
+          <a href="https://ermis.lu" target="_blank" rel="noopener noreferrer">
             Dogukan Ermis
           </a>
         </p>

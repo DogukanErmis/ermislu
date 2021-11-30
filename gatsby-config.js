@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://dogukanermis.com`,
+    siteUrl: `https://ermis.lu`,
   },
   plugins: [
     `gatsby-plugin-sass`,
