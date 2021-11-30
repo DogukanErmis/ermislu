@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import Fade from 'react-reveal/Fade';
-import { Container, Row, Col } from 'react-bootstrap';
+import { Col, Container, Row } from 'react-bootstrap';
 import Title from '../Title/Title';
 import AboutImg from '../Image/AboutImg';
 
@@ -53,7 +53,7 @@ const About = () => {
                     className="cta-btn cta-btn--resume"
                     href="https://www.linkedin.com/in/dogukan-ermis/"
                   >
-                    Resume
+                    My LinkedIn
                   </a>
                 </span>
               </div>
