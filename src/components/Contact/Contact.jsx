@@ -10,13 +10,13 @@ const Contact = () => (
       <Title title="Contact" />
       <Fade bottom duration={1000} delay={800} distance="30px">
         <div className="contact-wrapper">
-          <p className="contact-wrapper__text">info@ermis.lu</p>
+          <p className="contact-wrapper__text">contact@ermis.lu</p>
           <Swing bottom duration={1000} delay={800} distance="30px">
             <a
               target="_blank"
               rel="noopener noreferrer"
               className="cta-btn cta-btn--resume"
-              href="mailto:info@ermis.lu"
+              href="mailto:contact@ermis.lu"
             >
               Let&apos;s Talk
             </a>

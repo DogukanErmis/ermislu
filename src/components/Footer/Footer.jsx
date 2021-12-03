@@ -18,7 +18,7 @@ const Footer = () => {
     {
       id: nanoid(),
       name: 'envelope',
-      url: 'mailto:info@ermis.lu',
+      url: 'mailto:contact@ermis.lu',
     },
   ];
 
