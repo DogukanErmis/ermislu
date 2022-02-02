@@ -52,7 +52,7 @@ const About = () => {
                     target="_blank"
                     rel="noopener noreferrer"
                     className="cta-btn cta-btn--resume"
-                    href="https://drive.google.com/file/d/1gDYQQJ3mjlIWPN2J_aC86s7GQtHFe9jC/view?usp=sharing"
+                    href="https://dogukanermis.github.io/ermislu/CV_Dogukan_Ermis_React_Developer.pdf"
                   >
                     Link to my CV
                   </a>
