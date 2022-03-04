@@ -8,7 +8,7 @@ const Header = () => (
       <h1 className="hero-title">
         <span className="text-color-main">Dogukan Ermis</span>
         <br />
-        Full-Stack Developer
+        Software Engineer
       </h1>
       <p className="hero-cta">
         <Link to="about" className="cta-btn cta-btn--hero">

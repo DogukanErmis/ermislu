@@ -10,7 +10,7 @@ const Index = () => (
   <>
     <Helmet>
       <meta charSet="utf-8" />
-      <title>Dogukan Ermis | Full-Stack Developer</title>
+      <title>Dogukan Ermis | Software Engineer</title>
       <html lang="en" />
       <meta
         name="description"
