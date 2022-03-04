@@ -13,7 +13,7 @@ const Projects = () => {
       img: 'athome1.png',
       title: 'atHome',
       info: 'Bug fixes and improvement of the most popular real estate portal in Luxembourg.',
-      info2: 'ReactJS, Redux, JavaScript, TypeScript',
+      info2: 'React, Redux, JavaScript, TypeScript',
       url: 'https://www.athome.lu/',
       repo: '', // if no repo, the button will not show up
     },
@@ -31,7 +31,7 @@ const Projects = () => {
       img: 'athomefinance1.png',
       title: 'atHome Finance',
       info: 'Creation of several automation tools for the finance department.',
-      info2: 'ReactJS, PHP',
+      info2: 'React, PHP',
       url: 'https://www.athome.lu/en/finance/mortgage',
       repo: '', // if no repo, the button will not show up
     },
