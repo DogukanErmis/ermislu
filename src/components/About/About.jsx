@@ -48,16 +48,16 @@ const About = () => {
                 <p className="about-wrapper__info-text">
                   <u>Learning:</u> Go
                 </p>
-                <span className="d-flex mt-3">
-                  <a
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="cta-btn cta-btn--resume"
-                    href="https://dogukanermis.github.io/ermislu/CV_Dogukan_Ermis_React_Developer.pdf"
-                  >
-                    Link to my CV
-                  </a>
-                </span>
+                {/* <span className="d-flex mt-3"> */}
+                {/*  <a */}
+                {/*    target="_blank" */}
+                {/*    rel="noopener noreferrer" */}
+                {/*    className="cta-btn cta-btn--resume" */}
+                {/*    href="https://dogukanermis.github.io/ermislu/CV_Dogukan_Ermis_React_Developer.pdf" */}
+                {/*  > */}
+                {/*    Link to my CV */}
+                {/*  </a> */}
+                {/* </span> */}
               </div>
             </Fade>
           </Col>
